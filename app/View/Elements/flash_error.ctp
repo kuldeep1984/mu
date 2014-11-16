@@ -1,0 +1,1 @@
+<div class="alert-error-message" id="myCustomFlash"><?php echo $message; ?></div>

@@ -1,0 +1,1 @@
+<div style="color:#fff;font-size:14px;font-weight:bold;height:30px;  margin-bottom:10px; background:#387C44;padding-top:10px;padding-left:200px" id="myCustomFlash"><?php echo $message; ?></div>
